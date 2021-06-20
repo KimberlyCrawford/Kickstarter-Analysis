@@ -1,5 +1,5 @@
 # Analysis of Kickstarting Campaigns using Excel
-A Kickstarter analysis to uncover trends and patterns.
+A Kickstarter analysis to uncover trends and patterns for successful campaigns.
 
 ## Overview of Project
 An upcoming playwrite wants to launch a Kickstarter campaign to fund the play "FEVER" with a $10,000 budget and needs insight to plan the campaign and set it up for success. Kickstarter is a crowdfunding platform available to fund creative projects. For more information, visit https://www.kickstarter.com/about. 

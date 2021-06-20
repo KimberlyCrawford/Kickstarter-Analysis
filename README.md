@@ -13,7 +13,7 @@ The overview of the analysis is well described with screenshots (2 pt). Explain 
 Using Excel; the data was organized, sorted and filtered specifically for “theater” categories and “play” subcategories. Color-coded conditional formatting was applied to the dataset to easily distinguish between four outcomes: Successful, Failed, Canceled, and Live. Goals and pledged columns were sorted to research projects with similar budgets. Data was filtered and pivot tables were generated to get a refined review of the data. Summary statistics were calculated and interpreted.
 
 ### Analysis of Outcomes Based on Launch Date
-https://github.com/KimberlyCrawford/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch.png](https://github.com/KimberlyCrawford/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Chart here

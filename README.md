@@ -23,9 +23,7 @@ Chart here
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Based on the above "Outcomes Based on Launch Date" chart, two conclusions can be made: 
-1. A trend of outcomes based on launch date in months revealing higher success rates than failed or cancelled.
-2. A greater success rate of campaigns were held during the months of May and June with May being the highest. However; you will also notice January, June, July and October all had roughly the same number of failed campaigns launched.
+Based on the above "Outcomes Based on Launch Date" chart, two conclusions can be made: (1) A trend of outcomes based on launch date in months revealing higher success rates than failed or cancelled. (2) A greater success rate of campaigns were held during the months of May and June with May being the highest. However; you will also notice January, June, July and October all had roughly the same number of failed campaigns launched.
 
 - What can you conclude about the Outcomes based on Goals?
 One conclusion is made about the Outcomes based on Goals (2 pt).

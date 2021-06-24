@@ -8,18 +8,22 @@ An upcoming playwrite wants to launch a Kickstarter campaign to fund the play "F
 The purpose of this project is to determine if there are specific factors that make a crowdfunding campaign successful or not. Analyzing an Excel dataset of over 4,000 crowdfunding campaigns and data can help a client gain a greater understanding of campaigns from start to finish and allow the client to set the campaign to mirror successful ones in the same category.
 
 ## Analysis and Challenges
-Using Excel; the data was organized, sorted and filtered specifically for “theater” categories and “play” subcategories. Color-coded conditional formatting was applied to the dataset to easily distinguish between four outcomes: Successful, Failed, Canceled, and Live. Goals and pledged columns were sorted to research projects with similar budgets. Data was filtered and pivot tables were generated to get a refined review of the data. Summary statistics were calculated and interpreted.
+Using Excel; the data was organized, sorted and filtered specifically for “theater” categories and “play” subcategories. Color-coded conditional formatting was applied to the dataset to easily distinguish between four outcomes: Successful, Failed, Canceled, and Live. Goals and pledged columns were sorted to research projects with similar budgets. Data was filtered and pivot tables were generated to get a refined review of the data using line charts to represent trends.
 
 Explain how you performed your analysis using images and links to code. 
 
 ### Analysis of Outcomes Based on Launch Date (Chart 1)
+The below line chart reveals trends of successful, failed and cancelled outcomes based on launch date in months:
+
 ![Theater_Outcomes_vs_Launch.png](https://github.com/KimberlyCrawford/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals (Chart 2)
+The below line chart reveals trends of successful, failed and cancelled outcomes based on goals:
+
 ![Outcomes_vs_Goals.png](https://github.com/KimberlyCrawford/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-Explain any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered. 
+No challenges were encountered during the research. However, possible challenges or difficulties that could arise might include ? 
 
 ## Results
 

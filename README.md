@@ -8,9 +8,9 @@ An upcoming playwrite wants to launch a Kickstarter campaign to fund the play "F
 The purpose of this project is to determine if there are specific factors that make a crowdfunding campaign successful or not. Analyzing an Excel dataset of over 4,000 crowdfunding campaigns and data can help a client gain a greater understanding of campaigns from start to finish and allow the client to set the campaign to mirror successful ones in the same category.
 
 ## Analysis and Challenges
-The overview of the analysis is well described with screenshots (2 pt). Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered. Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
-
 Using Excel; the data was organized, sorted and filtered specifically for “theater” categories and “play” subcategories. Color-coded conditional formatting was applied to the dataset to easily distinguish between four outcomes: Successful, Failed, Canceled, and Live. Goals and pledged columns were sorted to research projects with similar budgets. Data was filtered and pivot tables were generated to get a refined review of the data. Summary statistics were calculated and interpreted.
+
+Explain how you performed your analysis using images and links to code. 
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch.png](https://github.com/KimberlyCrawford/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
@@ -19,6 +19,7 @@ Using Excel; the data was organized, sorted and filtered specifically for “the
 ![Outcomes_vs_Goals.png](https://github.com/KimberlyCrawford/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+Explain any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered. 
 
 ## Results
 

@@ -12,10 +12,10 @@ Using Excel; the data was organized, sorted and filtered specifically for “the
 
 Explain how you performed your analysis using images and links to code. 
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date (Chart 1)
 ![Theater_Outcomes_vs_Launch.png](https://github.com/KimberlyCrawford/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals (Chart 2)
 ![Outcomes_vs_Goals.png](https://github.com/KimberlyCrawford/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
@@ -23,11 +23,12 @@ Explain any challenges you encountered and how you overcame them. If you had no 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Based on the above "Outcomes Based on Launch Date" chart, two conclusions can be made: (1) A trend of outcomes based on launch date in months revealing higher success rates than failed or cancelled. (2) A greater success rate of campaigns were held during the months of May and June with May being the highest. However; you will also notice January, June, July and October all had roughly the same number of failed campaigns launched.
+- Based on Chart 1 above, the following two conclusions can be made:
+1. A trend of "theater" parent category outcomes based on launch date in months revealing higher success rates than failed or cancelled campaigns with 61% successful, 36% failed and 3% canceled. Therefore, a client can expect a higher success rate of getting the campaign funded.
+2. A greater success rate of campaigns were held during the months of May and June with May being the highest. However; you will also notice December had roughly the same number of failed campaigns (50% successful versus 46% failed) launched with only a 4% difference. The month of October came in second place with 57% successful versus 43% failed. Therefore, a client should launch a "theater" campaign during the months of May or June.
 
-- What can you conclude about the Outcomes based on Goals?
-One conclusion is made about the Outcomes based on Goals (2 pt).
+- Based on Chart 2 above, the following conclusion can be made:
+1. A greater success rate for campaign goals between $1-$15,000 and $35,000 - $45,000 and a higher failure rate for campaign goals between $20,000 - $35,000 and any goal over $45,000. Therefore, a client seeking $10,000 to fund a play has a higher success rate versus failure rate. However, the success rate is only 10% higher than the failure rate. A goal of $5,000 has a much higher success rate of 73% versus 27% failure rate.
 
 - What are some limitations of this dataset?
 There is a summary of the limitations of the dataset, and there is a 

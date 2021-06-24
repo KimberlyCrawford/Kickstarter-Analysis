@@ -31,10 +31,8 @@ filtering in categories and financial information.
 2. A greater success rate of campaigns were held during the months of May and June with May being the highest. However; you will also notice December had roughly the same number of failed campaigns (50% successful versus 46% failed) launched with only a 4% difference. The month of October came in second place with 57% successful versus 43% failed. Therefore, a client should launch a "theater" campaign during the months of May or June.
 
 - Based on Chart 2 above, the following conclusion can be made:
-1. A greater success rate for campaign goals between $1-$15,000 and $35,000 - $45,000 and a higher failure rate for campaign goals between $20,000 - $35,000 and any goal over $45,000. Therefore, a client seeking $10,000 to fund a play has a higher success rate versus failure rate. However, the success rate is only 10% higher than the failure rate. A goal of $5,000 has a much higher success rate of 73% versus 27% failure rate.
+1. A greater success rate for campaign goals between $1-$15,000 and $35,000 - $45,000 and a higher failure rate for campaign goals between $20,000 - $35,000 and any goal over $45,000. Therefore, a client seeking $10,000 to fund a play has a higher success rate versus failure rate. However, the success rate is only 10% higher than the failure rate. A goal of $5,000 has a much higher success rate of 73% versus 27% failure rate
 
-- What are some limitations of this dataset?
-The dataset was limited to one level of subcategories under theater.
+- The dataset was limited to one level of subcategories under theater.
 
-- What are some other possible tables and/or graphs that we could create?
-Other tables or graphs might include a comparison of the number of "backers" in successful and failed compaigns.
+- Other tables or graphs that could be generated: Bar charts and line charts to compare the number of "backers" in successful and failed compaigns.

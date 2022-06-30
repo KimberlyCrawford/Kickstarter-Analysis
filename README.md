@@ -37,4 +37,4 @@ filtering in categories and financial information.
 
 - Other tables or graphs that could be generated: Bar charts and line charts to compare the number of "backers" in successful and failed compaigns.
 
-#### Module 1 Challenge Project for the Data Analysis & Visualization Professional Certificate Program by UT Austin McCombs School of Business, 2021.
+#### Module 1 Challenge, Data Analysis & Visualization Professional Certificate Program, UT Austin McCombs School of Business, 2021.

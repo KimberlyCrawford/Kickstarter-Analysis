@@ -21,7 +21,7 @@ The below line chart reveals trends of successful, failed and canceled outcomes 
 ![Outcomes_vs_Goals.png](https://github.com/KimberlyCrawford/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-No challenges were encountered during the research. However, possible challenges or difficulties that could arise might include misrepresentation of the the data with inaccurate 
+No challenges were encountered during the research. However, possible challenges or difficulties that could arise might include misrepresentation of the data with inaccurate 
 filtering in categories and financial information.
 
 ## Results
